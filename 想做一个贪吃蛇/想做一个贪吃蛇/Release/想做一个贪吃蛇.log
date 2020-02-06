@@ -1,0 +1,8 @@
+﻿  想做一个贪吃蛇.cpp
+c:\users\11231\desktop\想做一个贪吃蛇\想做一个贪吃蛇\想做一个贪吃蛇.cpp(253): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 102 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  想做一个贪吃蛇.vcxproj -> C:\Users\11231\Desktop\想做一个贪吃蛇\Release\想做一个贪吃蛇.exe
